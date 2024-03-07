@@ -1,5 +1,5 @@
-# 실습 완료 후 템플릿 (~~ 배포)
-
+# 실습 완료 후 템플릿 (Netlify 배포)
+https://sensational-paletas-5e02eb.netlify.app/
 
 ---
 
